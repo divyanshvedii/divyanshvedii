@@ -18,7 +18,6 @@ Grow as a developer by contributing to the community.
 Python | C++ | SQL
 Git & GitHub
 
-🌱 Fun Fact:
 I enjoy casual conversations and exploring new perspectives.
 
 🔗 Let’s Connect:
